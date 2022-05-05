@@ -1,0 +1,9 @@
+
+Abstract
+
+      The idea behind this project is to register compliant for panchayat union using application development. This application is used to compliant reporting system which is easily accessible to the public. The public members are having rights to register on their area grievances (like water problem, EB problem and Road problem etc..) via online and it is direct to panchayat president.
+     The same has not processed well by the concern authority. It is directed to the BDO department  Then the   system accept the complaints  and follow the remedial steps duly by union or else BDO . Finally, It becomes solves, The complaint would taken in to queue and mentioned in status as accepted and completed. It will also helpful to BDO department to monitor the Compliant from the People can give solution at any time.
+
+
+
+
